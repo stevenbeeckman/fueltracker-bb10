@@ -1,0 +1,47 @@
+<div data-bb-type="screen" data-bb-effect="slide-left" style="background-color: #252525; color: #eeeeee;">
+  <style>
+    table {
+      color: #eeeeee;
+      font-size: 1em; 
+      border: solid 1px #444444;
+      margin: 0.5em;
+    }
+
+    th {
+      padding: 0.5em;
+    }
+
+    table tbody tr:nth-child(odd) {
+      background-color: #3d3d3d;
+    }
+
+    td {
+      font-size: normal;
+    }
+  </style>
+  <div data-bb-type="menu">
+    <div data-bb-type="menu-item" onclick="bb.pushScreen('settings.html', 'settings')" data-bb-caption="Settings" data-bb-img="images/menu_icons/icon2.png">Settings</div>
+  </div>
+  <div data-bb-type="button" data-bb-style="stretch" id="usernamebutton" onclick="changeUser()">Username</div><div data-bb-type="button" data-bb-style="stretch" id="carbutton" onclick="changeCarScreen()">Selected car</div>
+  <divstyle="padding: 1em;">
+    <table id="userstats">
+      <caption>Stats</caption>
+      <thead>
+	<tr>
+	  <th>date</th>
+	  <th>mileage</th>
+	  <th>volume</th>
+	  <th>unit price</th>
+	</tr>
+      </thead>
+      <tbody>
+      </tbody>
+      <tfoot id="userstatsfooter">
+      </tfoot>
+    </table>
+  </div>
+  <div data-bb-type="activity-indicator" data-bb-size="large" id="activityindicator" style="display: none; align: center; margin-left: auto; margin-right: auto;"></div>
+  <div id="error" style="display:none;"><font color="red">An error occured while registering you.</font></div>
+  <div data-bb-type="action-bar" data-bb-back-caption="Back">
+  </div>
+</div>

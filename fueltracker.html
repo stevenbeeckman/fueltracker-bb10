@@ -2,9 +2,7 @@
   <div data-bb-type="menu">
     <div data-bb-type="menu-item" onclick="bb.pushScreen('settings.html', 'settings')" data-bb-caption="Settings" data-bb-img="images/menu_icons/icon2.png">Settings</div>
   </div>
-  <div data-bb-type="pill-buttons">
-    <div data-bb-type="pill-button" id="usernamebutton">Username</div><div data-bb-type="pill-button" id="carbutton">Selected car</div>
-  </div>
+  <div data-bb-type="button" data-bb-style="stretch" id="usernamebutton" onclick="changeUser()">Username</div><div data-bb-type="button" data-bb-style="stretch" id="carbutton" onclick="changeCarScreen()">Selected car</div>
   <form style="padding: 1em;">
     <fieldset>
 	<legend>Tank session</legend>
