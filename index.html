@@ -5,27 +5,7 @@
           <script type="text/javascript" src="bbui-0.9.4.js"></script>
           <script type="text/javascript" src="js/webworks-1.0.2.9.js"></script>
           <script type="text/javascript" src="js/register.js"></script>
-          <script type="text/javascript">
-          document.addEventListener('webworksready', function(e) {
-          bb.init({actionBarDark: true, controlsDark: true, listsDark: true, highlightColor: '#00A8DF', bb10ForPlayBook: true,
-	    ondomready: function(element, id, params) {
-	     if(id == "firstScreen") {	
-	       console.dir(localStorage.getItem('registrationFinished'));
-	       if(localStorage.getItem('registrationFinished')) {
-	         console.log('showing fueltracker');
-	         bb.pushScreen('fueltracker.html', 'fueltracker');
-	       }
-	     }
-	     if(id == "fueltracker") {
-	       $("#usernamebutton").html(localStorage.getItem('username'));
-	       $("#carbutton").html(localStorage.getItem('brand') + " " + localStorage.getItem('model'));
-	     }
-	  //   onLoadFunctions();
-	  }});
-              // Open our first screen
-          bb.pushScreen('firstScreen.html', 'firstScreen');
-          }, false);
-          </script>
+          <script type="text/javascript" src="js/custom.js"></script>
 	  <style>
 	    input {
 	      padding: 1em;
