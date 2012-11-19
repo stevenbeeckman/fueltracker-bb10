@@ -1,0 +1,22 @@
+<div data-bb-type="screen" data-bb-effect="slide-left" style="background-color: #252525; color: #eeeeee;">
+	<div data-bb-type="title" data-bb-caption="Register">
+	</div>
+	<form style="margin: 1em;">
+	  <fieldset>
+	    <legend><b>Enter your credentials</b></legend>
+	    <label for="username">Username:</label>
+	    <input type="text" name="username" id="username" placeholder="johndoe" required />
+	    <label for="email">Email:</label>
+	    <input type="email" name="email" id="email" placeholder="johndoe@example.com" required />
+	    <label for="password">Password:</label>
+	    <input type="password" id="password" name="password" required />
+	  </fieldset>
+	</form>
+	<div data-bb-type="activity-indicator" data-bb-size="large" id="activityindicator" style="display: none; align: center; margin-left: auto; margin-right: auto;"></div>
+	<div id="error" style="display:none;"><font color="red">An error occured while registering you.</font></div>
+	<div data-bb-type="action-bar" data-bb-back-caption="Cancel">
+	  <div data-bb-type="action" data-bb-style="button" data-bb-img="images/actionBar/cog_dark_theme.png" onclick="registerUser();">
+	    Add car
+	  </div>
+	</div>
+</div>

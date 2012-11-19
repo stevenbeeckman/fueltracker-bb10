@@ -1,0 +1,296 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"d",
+				"DeathRegistration"
+			],
+			[
+				"User",
+				"UserEvent"
+			],
+			[
+				"set",
+				"setupRoutes"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"regi",
+				"registrationDate"
+			],
+			[
+				"regist",
+				"registeredDeaths"
+			],
+			[
+				"registration",
+				"registrationDate"
+			],
+			[
+				"adddeath",
+				"adddeathsbutton"
+			],
+			[
+				"find",
+				"findById"
+			],
+			[
+				"failed",
+				"failedFn"
+			],
+			[
+				"id",
+				"id"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 579,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "firstScreen.html",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Steven/Documents/shadowmedia/tehuur/index.html",
+		"/C/Users/Steven/Documents/node/syria/views/admin/index.ejs",
+		"/C/Users/Steven/Documents/node/syria/views/admin/deaths.ejs",
+		"/C/Users/Steven/Documents/node/syria/views/index.ejs",
+		"/C/Users/Steven/Documents/node/syria/views/admin/users.ejs",
+		"/C/Users/Steven/Documents/node/syria/views/admin/user/view.ejs",
+		"/C/Users/Steven/Documents/node/syria/views/admin/death/view.ejs",
+		"/C/Users/Steven/Documents/node/syria/views/admin/death/edit.ejs",
+		"/C/Users/Steven/Documents/node/syria/views/admin/death/delete.ejs",
+		"/C/Users/Steven/Documents/node/syria/views/admin/death/add.ejs",
+		"/C/Users/Steven/Documents/node/syria/views/admin/user/add.ejs",
+		"/C/Users/Steven/Documents/node/syria/views/admin/user/delete.ejs",
+		"/C/Users/Steven/Documents/node/syria/views/admin/user/edit.ejs",
+		"/C/Users/Steven/Documents/node/syria/views/error.ejs",
+		"/C/Users/Steven/Documents/node/syria/test/test.js",
+		"/C/Users/Steven/Documents/node/syria/routes/index.js",
+		"/C/Users/Steven/Documents/shadowmedia/index.html",
+		"/C/Users/Steven/Documents/node/syria/routes/login.js",
+		"/C/Users/Steven/Documents/node/syria/Procfile",
+		"/C/Users/Steven/Downloads/Highcharts-2.3.2/examples/line-time-series/syria.html",
+		"/C/Users/Steven/Documents/node/syria/views/admin.ejs",
+		"/C/Users/Steven/Documents/work/bugzilla.sql",
+		"/C/Users/Steven/Documents/node/jos/views/bookmark.ejs",
+		"/C/Users/Steven/Documents/node/jos/views/register.ejs",
+		"/C/Users/Steven/Documents/node/jos/views/login.ejs",
+		"/C/Users/Steven/Documents/node/jos/views/crumbs.ejs",
+		"/C/Users/Steven/Documents/node/jos/validations.js",
+		"/C/Users/Steven/Documents/node/jos/models.js",
+		"/C/Users/Steven/Documents/node/jos/views/layout.ejs",
+		"/C/Users/Steven/Documents/node/jos/views/404.ejs"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"/admin/error",
+			"/img/",
+			"/css/",
+			"../assets",
+			");\n",
+			"});\n",
+			"class=\"button\"",
+			"class=\"btn\"",
+			"class=\"button\"",
+			"nick",
+			"depen"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"admin/error",
+			"/tehuur/img/",
+			"/tehuur/css/",
+			"",
+			"class=\"btn btn-primary\"",
+			"class=\"btn\"",
+			"useraccount"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 579,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								469,
+								469
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "firstScreen.html",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
